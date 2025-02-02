@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.active{
+    background-color:#F4F4F4;
+    font-weight:bold;
+}
+
+.video-container{
+    overflow-y: scroll; 
+    scrollbar-width: none;
+}
